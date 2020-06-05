@@ -8,7 +8,7 @@
 
 <script>
 import { mapState } from 'vuex'
-import PetTable from '@components/PetTable.vue'
+import PetTable from '@/components/PetTable.vue'
 
 export default {
   components: {
